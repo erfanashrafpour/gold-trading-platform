@@ -112,7 +112,7 @@ Simplified code written for this showcase (not copied from the project):
 
 ## Screenshots
 
-See [`screenshots/`](screenshots/).
+![Admin dashboard](screenshots/admin-dashboard.png)
 
 ---
 
