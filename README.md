@@ -116,4 +116,4 @@ Simplified code written for this showcase (not copied from the project):
 
 ---
 
-**Erfan Ashrafpour**, Full-Stack Developer (Laravel / Angular) · erfan90000@gmail.com
+**Erfan Ashrafpour**, Full-Stack Developer (Laravel / Angular) · erfanashrafpour2000@gmail.com
